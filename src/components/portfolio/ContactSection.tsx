@@ -5,7 +5,7 @@ const socials = [
   // { icon: Github, label: 'GitHub', href: '#' },
   // { icon: Linkedin, label: 'LinkedIn', href: '#' },
   { icon: MessageCircle, label: 'WhatsApp', href: 'https://wa.me/9879481895' },
-  { icon: Mail, label: 'Email', href: 'mailto:hello@example.com' },
+  { icon: Mail, label: 'Email', href: 'mailto:rajajwaliya2005@gmail.coms' },
 ];
 
 const ContactSection = () => {
