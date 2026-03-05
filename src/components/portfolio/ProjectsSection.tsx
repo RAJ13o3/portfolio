@@ -12,7 +12,7 @@ const projects = [
     images: [
       'Screenshot 2026-03-03 at 10.48.18.png',
       '2.png',
-      'shilp3.png',
+      '3.png',
       '4.png',
       '5.png',
       '6.png',
