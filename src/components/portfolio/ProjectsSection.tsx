@@ -11,11 +11,11 @@ const projects = [
     gradient: 'from-[hsl(263,70%,58%)] to-[hsl(280,80%,60%)]',
     images: [
       'Screenshot 2026-03-03 at 10.48.18.png',
-      '2.png',
-      '3.png',
-      '4.png',
-      '5.png',
-      '6.png',
+      '/2.png',
+'/3.png',
+'/4.png',
+'/5.png',
+'/6.png'
       
     ],
     
